@@ -18,7 +18,7 @@ Creator : @darkmakerofc , @mr-nima-x
 module.exports = {
   OWNER_NUMBER: "22899869601",
   SUDO_NUMBERS : "22899869601,22896870256",
-  OWNER_NAME: "『 ⁨ད𓆩☀️𝕴𝖘𝖗𝖆𝖋𝖊𝖑•𝕲𝖗𝖎𝖓𝖇𝖊𝖗𝖞𝖆𝖑𝖑🌙𓆪ཌ⁩ 』",
+  OWNER_NAME: "『 ⁨𓆩☀️𝕴𝖘𝖗𝖆𝖋𝖊𝖑•𝕲𝖗𝖎𝖓𝖇𝖊𝖗𝖞𝖆𝖑𝖑🌙𓆪⁩ 』",
   BOT_NAME : "『 𓆩❦𝕾𝕮𝕻ꕥ𓆪『BΩT 』",
   ZUSYCO_FILE : "ZUSYCO-QR.nima",
   LOGOS: {
@@ -36,7 +36,7 @@ module.exports = {
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© 𓆩☀️𝕾𝕮𝕻🌙𓆪『🪶❦𝐇𝐞𝐥𝐥𝐬•𝐈𝐜𝐡𝐢𝐠𝐨🪽』⁩ ',
-  STICKER_PACK : '[ ⁨ད𓆩☀️𝕴𝖘𝖗𝖆𝖋𝖊𝖑•𝕲𝖗𝖎𝖓𝖇𝖊𝖗𝖞𝖆𝖑𝖑🌙𓆪ཌ⁩ ]',
+  STICKER_PACK : '[ ⁨𓆩☀️𝕴𝖘𝖗𝖆𝖋𝖊𝖑•𝕲𝖗𝖎𝖓𝖇𝖊𝖗𝖞𝖆𝖑𝖑🌙𓆪⁩ ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
